@@ -1,0 +1,44 @@
+---
+title: "Analyzing trends in solar radiation over the Laurentian Great Lakes"
+description: | 
+  Learning how to wrangle, process, and visualize data frames
+author:
+  - name: Myles Walimaa
+    url: 
+    affiliation: Northern Michigan University
+    affiliation_url: 
+
+date: 05-04-2019
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating blogs with Distill at:
+# https://rstudio.github.io/distill/blog.html
+
+```
+today <- Sys.Date()
+format(today, format="%m")
+
+
+Skills practiced:  
+  
+* Downloading and navigating the structure of LANDFIRE raster data  
+* Recoding rasters using R (dplyr, raster, sf packages)  
+* Using QGIS to manage vector and raster files, edit symbology, add basemaps, and create a final layout  
+
+I had just gotten back from my first season at Isle Royale National Park - a long, arduous, fulfilling summer. My sister and I took three weeks and drove to Joshua Tree, King's Canyon, Yosemite, and San Francisco. Upon returning to Marquette, I picked up a job at a ski hill for the winter, but also needed to continue working in science to some extent. I was re-introduced to Randy Swaty and became a member of the Conservation Data Lab.  
+
+Cole Bonino (at the time) was a student at Northern Michigan University and was doing an internship with Randy. She developed a project idea and began researching her question, "How does the historical ecosystem patterns of the Driftless Region compare to the current ecosystem patterns?" The **[Driftless Region](https://en.wikipedia.org/wiki/Driftless_Area)** is 15.4 million acres of land at the crossroads of Wisconsin, Minnesota, Illinois, and Iowa that the glaciers avoided during the last ice age. Since there were no glaciers to flatten the landscape and deposit glacial drift (hence the name), the rolling landscape is a unique example of Midwest geography and ecology pre-ice age. Using the LANDFIRE BioPhysical Settings (BPS) data, she was able to construct a good idea of ecosystem distribution of the target area pre-colonization. LANDFIRE Existing Vegetation Type (EVT) data was used to assess the current ecosystem distribution.  
+
+Cole is great ecologist, but as a biology major she did not have much GIS experience. I tag-teamed with her to finish this project. We wanted to display the changes that Driftless Region experienced before and after colonization. At this point I had lots of experience with ArcGIS Pro while in college, but had to find an alternative software since I no longer had an ESRI license after graduating. This is where I stumbled upon QGIS and began teaching myself this software. Under guidance of the Randy, I reclassified (using R) the BPS raster into 5 broad categories: Oak and Pine, Prairie, Paleozoic Bluff and Talus, Mesophytic, and Riparian and Wetland. The same was performed to the EVT raster, with the addition of Ruderal and Plantation, and Agriculture and Development categories. Then I used QGIS to create cartographic maps. 
+
+As seen in the maps below, this region underwent quite a few changes since colonization. There are efforts to conserve and protect areas that remain untouched.  
+
+This project was presented to The Nature Conservancy in Madison, WI.
+
+![Historical ecosystem coverage of the Driftless Region.](bps_layout.jpg)  

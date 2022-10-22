@@ -8,6 +8,13 @@
       "last_modified": "2022-10-22T13:16:00-06:00"
     },
     {
+      "path": "projects.html",
+      "title": "Projects",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-10-22T13:26:41-06:00"
+    },
+    {
       "path": "resume.html",
       "title": "Myles Walimaa",
       "description": "Creative and collaborative problem solver with a passion for ecological conservation through data science, field work, and geospatial analysis. Wide range of experiences from scuba diving to wildland firefighting, and self-taught coding in R to mapping in many platforms.",
@@ -16,5 +23,5 @@
       "last_modified": "2022-10-22T13:23:40-06:00"
     }
   ],
-  "collections": []
+  "collections": ["posts/posts.json"]
 }
