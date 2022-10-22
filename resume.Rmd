@@ -1,0 +1,74 @@
+---
+title: "Myles Walimaa"
+description: |
+  Creative and collaborative problem solver with a passion for ecological conservation through data science, field work, and geospatial analysis. Wide range of experiences from scuba diving to wildland firefighting, and self-taught coding in R to mapping in many platforms.
+toc: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+```
+Hard copy of resume found [here](resume.pdf)
+
+# Education
+**Northern Michigan University** - *B.S. Environmental Science*  
+Marquette, MI | August 2016 - May 2019 | Magna Cum Laude  
+  
+**Schoolcraft College** - *A.A.S. Sound Recording Technology*  
+Livonia, MI | August 2013 - May 2015
+
+
+# Research 
+**The gut microbiome of wild American marten in the Upper Peninsula of Michigan**  
+Diana Lafferty, et al.  
+Wildlife Ecology and Conservation Science Lab  
+Accepted for publication October 2022  
+  
+* Co-author who performed GIS processing using R-Studio and QGIS, prepared and conducted fieldwork activities, and contributed to writing the final manuscript  
+* Combined raster and vector (shapefile) datasets to generate random sampling locations, extract spatial and environmental data for analysis, and produce cartographic maps  
+  
+  
+**Representation revisited: a detailed assessment of ecosystem representation in the protected areas of the United States**  
+Brandon Caltrider, Randy Swaty, and Myles Walimaa  
+Conservation Data Lab  
+Presented at International Association of Landscape Ecology, April 2021  
+  
+* Co-author who cooperatively read literature, identified project, outlined research plan, gathered and analyzed data, prepared summary charts and interactive maps, and presented findings using R Studio  
+* Combined and analyzed raster and vector (shapefile) data to extract ecological summaries inside and outside the protected lands of the United States using a variety of datasets  
+  
+  
+**Analyzing trends in solar radiation over the Laurentian Great Lakes**  
+Myles Walimaa  
+Northern Michigan University, April 2019  
+  
+* Awarded first-place poster ribbon at Northern Michigan University’s Celebration of Student Scholarship  
+* Independently read literature, identified project, outlined research plan, gathered and analyzed data, prepared research report, and created poster for presentation  
+* Data analysis included using R-Studio coding to transform, combine, and process large .csv files (75,000+ rows) into summary tables with basic statistical tests to assess hypothesis  
+  
+  
+# Software  
+  
+* R Studio - scripting, functions, data wrangling, data analysis, statistics, charts and plots, GIS, spatial analysis, cartography, interactive webmaps, R Markdown  
+* ArcGIS Pro / ArcMap 10  - vector and raster processing, feature class creation, manage attribute tables, spatial analysis, georeference images, cartography, Python 3  
+* QGIS - vector and raster processing, shapefile creation, manage attribute tables, spatial analysis, georeference images, cartography  
+* QCAD - 2D structure blueprints and layouts  
+* SQL - Database creation, querying, editing
+
+
+
+# Certifications  
+  
+* National Park Service  
+  
+  + Motorboat Operator  
+  + Sawyer  
+  + Diver  
+  + Operational Leadership
+* National Wildfire Coordinating Group Firefighter Type 2
+* PADI Open Water Diver, Dry Suit Diver
+* First Aid  
+* CPR  
+* Oxygen Administration 
+
+

@@ -1,0 +1,56 @@
+---
+title: "Adventures"
+description: |
+  All the stuff I've done...
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+```
+# How it started
+In August 2014, still living in Detroit, six friends and I planned a backpacking trip to **North Manitou Island** off the **Sleeping Bear Dunes National Lakeshore, MI**. Nobody really had any idea what we were doing--we all brought things we thought would be useful. We had one water filter and one stove between all of us, and all we needed to do was survive three days... and not miss the ferry back home.  
+
+We hiked 23 miles around the island, encountering mosquitoes, serene beaches, automobile graveyards, sunburn, small critters, slugs, blisters, campfires, stars. We all suffered and celebrated in solidarity. At one point on the trail (we were several paces away from each other, hiking in silence), I realized that I have all the basic human needs with me at all times in my backpack. I could keep walking forever.  
+
+Could I? The answer is yes, but the only hurdle is money to replenish my food. Is it possible to get paid to hike? Maybe. The first thing I needed to do was finish my audio degree.  
+
+So the research started over the winter. Initially considered being a recreation guide, which would be great in its own sense. Thinking back to high school and the courses I liked and disliked. **Math** was awesome. **Chemistry**, **physics**, and **astronomy** were among my favorites. I could become a scientist! Thinking back to childhood, Bill Nye the Science Guy was one of my favorite shows and I always wanted to be a researcher. This could work.  
+
+While I finished my degree, I saved money for a new backpack, tent, stove, sleeping bag, sleeping pad, and the basic backpacking needs. My second backpacking trip was a 27 mile loop in the **Great Smoky Mountains National Park, NC**. I went cliff jumping, hiked to the top of a mountain, and made some friends in North Carolina. Traveling is something I really enjoy.  
+
+# The interim
+Since I had my Associate's degree already, I just needed a few more courses to fulfill the credits I needed to transfer to a university. So I promptly started community college to take these five courses.  
+
+My first semester I took **Cultural Anthropology** (to this day, the most influential class I ever took), **Nutrition**, and **German**. My second semester was **Calculus** and **Physics*. I rode my bike to campus everyday because it was a couple miles from my parents' house. It worked out perfect.  
+
+## Zion
+This was October 2015 and I was working a full time job as a cook at a restaurant. I overheard a couple of my coworkers talking about visiting **Zion National Park** and I interjected into their conversation "Do you want to go backpacking there? I'll join you and plan the trip for all of us!" That moment they realized I was serious and we made it happen. There were four of us total, and we all bought plane tickets from Detroit to Las Vegas. I mailed myself food and my stove (we bought fuel when we got there) via general delivery. Our rental car was a brick red sedan and we drove the three hours to Zion and started our adventure.  
+
+We spent two nights camping on BLM land and hiked to Emerald Pools and the top of Angel's Landing. Then we started our backcountry excursion in the **Kolob Canyon** area at the north side of the park. We set up camp in under a grove of pine trees. The first night we experienced a torrential downpour of rain. We set up a lean-to for cooking and general shelter and dug small trenches around our tents to prevent water from pooling underneath. The next day we hiked to the **Kolob Arch** and explored the forested beauty of Utah. On our way back to Vegas, we stayed at the **Valley of Fire** state park, 30 minutes outside of Vegas so we could catch our flight home in time.  
+
+## Grand Canyon
+Seeing the desert for the first time at **Zion** left me with bewilderment. I immediately started planning my next adventure for March, 2016. I had seen the Grand Canyon once--the south rim--on a family vacation, but what was it like at the bottom? I posted on Facebook (since deactivated) that I wanted to get to the bottom and asking my network who wants to join me. The three people that reacted was an interesting mix of friends. My coworker who was on the **Zion** trip wanted to go, along with another coworker who had never backpacked before. The third person was someone I met at a concert in Detroit. I shared my plan and explained the gear everyone needed to collect. They were all on board.  
+
+We threw a futon mattress in the back of my friend's parents' minivan and drove 26 hours straight all the way to the South Rim, switching off driving and taking naps in the back. Upon rolling in, we stayed at the campground at the South Rim and woke up early to pack our bags and trek to the bottom. Descending five vertical miles to the Colorado River did a number on my knees. The bottom of the canyon was incredible though, one of my friends exclaimed "Welcome to Jurassic Park!"
+
+We set up the four-person tent and packed on in like sardines. The next day we started trekking toward the North Rim. There was an old bridge that crossed **Bright Angel Creek** and we followed it to **Rainbow Falls**--a giant pillar where a waterfall landed on top and dripped down the side. Moss was covering the exposed face and there was a pool of water at the bottom with a small cave that we could walk into. After we were refreshed, we hiked to our campground for the night. The next morning, one of my friends was hurting pretty bad. She went to the (closed) ranger station to inquire about taking a mule back to the top. This was a monumental moment in her life where she realized "I have to walk out of here on my own." A classic example of the body needing to be stronger than the mind. We all get there at some point.  
+
+The next morning we started our trek back to the car. We had two more nights to get there, so we took our time getting back to the base of the South Rim and stayed another night at the bottom, then another halfway up the canyon. On our last haul back to the top, I had a surge of energy and hike on ahead. It was a moment for myself testing my mental fortitude. I wish my friends were there, but I saw a giant shadow then immediately looked out past the switchback. A **California Condor** was gliding off into the distance. Two more joined it and I stood there in awe watching these giant birds fly off into the distance, eventually gliding around a bend. I immediately continued hiking and waited for my friends at the top.  
+
+We all made it to the top and began our trip back to Michigan. We stopped in Boulder, CO, to stay with my friend's cousins and got some pho for dinner. The drive back home was full of good food, good company, and great reflections.  
+
+# The big trip
+I quit my restaurant job in July, packed my station wagon with everything I needed, and started driving west. My sister joined me. We escaped a tornado in the **Badlands**, went hiking up the **Grand Tetons**, and camped in the **North Cascades**. She needed to be back home and flew home from Seattle, WA. I trucked on south to Eugene, OR, where one of my high school friends lived. We summitted **South Sister Mountain** and played basketball. I drove further south into California to see the **Redwood National Park** and **Yosemite**. I got lost, my car had minor difficulties, and I accidentally killed a coyote via my car (I promise this individual ran across the road at the exact worst timing). Such is the life of living alone on the road.  
+
+I spent my last week in North Carolina with my friend I met on the Smoky Mountains trip. We kayaked and explored the rivers that Appalachia has to offer. 
+
+
+#The big move
+My college days were coming to an end and I was moving to a university. This was the first time moving out of my parents' house and I embraced it. For simplicity, I rented an on-campus apartment as it was a stable place for me to settle into the next chapter of my life.
+
+```{r, out.width = "600px", fig.align='center'}
+# knitr::include_graphics("photos/myles_hang.jpeg")
+
+
+```  rr

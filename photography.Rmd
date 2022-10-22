@@ -1,0 +1,27 @@
+---
+title: "Photography"
+description: |
+  Life through a 35mm lens.
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+```
+My grandfather once gifted me his old 35mm Olympus camera. I didn't know anything about taking photographs, plus I had my digital camera anyway (this was before smartphones). It was buried in a closet for years and I found it when I was moving to Marquette for college. I took a couple rolls of film with me and started practicing. It wasn't until I developed my first roll of film that I found the charm.  
+  
+* Each photo costs ~$1, is this moment worth capturing or simply enjoying?  
+* The analog grain creates a softer, warmer feeling.  
+* Sometimes the film gets damaged and creates a certain uniqueness.  
+* You only get one shot. That's it.  
+  
+This hobby brings me back to the present. Observing the environment; waiting for the perfect moment. Here are some of my favorites I've taken over the years. Enjoy!
+    
+```{r}
+#slickR::slickR(
+#    list.files("photos/photography",full.names = TRUE),
+#    height = 400,
+#    width = '95%') +
+#  slickR::settings(dots = T, autoplay = T)
+
+```
