@@ -12,14 +12,8 @@ navbar:
       href: resume.html
     - text: "Projects"
       href: projects.html
-    - text: "About Me"
-      menu:
-        - text: "Summary"
-          href: about.html
-        - text: "Adventures"
-          href: adventures.html
-        - text: "Photography"
-          href: photography.html
+    - text: "Summary"
+      href: about.html
     - text: "Contact"
       href: contact.html
 output: distill::distill_article
