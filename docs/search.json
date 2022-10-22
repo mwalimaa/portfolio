@@ -1,0 +1,43 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "A little bit about me..",
+      "description": "Who is this madman?",
+      "author": [],
+      "contents": "\r\nGrowing up in the Great Lakes state, freshwater seas were a significant part of my upbringing. Most of my life was spent learning and exploring just outside of Detroit, MI. Though, my parents took my sister and I camping “up north” every summer where we were able to play in the forests and on the beaches. After obtaining my Associate’s degree in audio production, my dream of working in a recording studio shifted to a passion of exploring the natural world. Therefore, I moved to Marquette, MI, to the fresh coast of Lake Superior to begin my studies.\r\nIn Marquette, I picked up many outdoor hobbies, such as rock climbing, surfing, snowboarding, bikepacking, scuba diving, and sailing. Today, I spend my time climbing mountains to capture vistas that few people have the luxury to see. Otherwise, I spend time in the ocean waiting for the perfect wave to ride back to the shore. When I have the opportunity to pack up my bicycle with camping gear, I hit the road on a trial of endurance and discipline. Lastly, whenever I visit Lake Superior, my sister and I take our sailboat out to spend a few days finding balance between the air and the water.\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-10-22T14:19:02-06:00"
+    },
+    {
+      "path": "contact.html",
+      "title": "Contact",
+      "description": "Interested in collaboration? Have some GIS projects? Do you need an R script?",
+      "author": [],
+      "contents": "\r\n\r\nFeel free to reach out, I will respond as soon as I can\r\n\r\n\r\nPhone calls and voicemails are welcome!\r\n\r\n\r\nemail: mwalimaa@gmail.com\r\n\r\n\r\nmobile phone: (248) 298-9574\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-10-22T14:18:18-06:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Myles Walimaa",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n\r\n\r\nI am a spatial ecologist, data coder, and field technician.\r\n\r\n\r\nAs a seasonal National Park Service employee, I spend half my year on Isle Royale collecting data, handling wildlife, operating boats, paddling, hiking… and I spend the other half doing freelance GIS and data management work, working on as many mini-projects I can juggle, and exploring the country’s natural spaces.\r\nMy studies in college provided a strong foundation in earth science, biology, chemistry, and conservation. I continue to build off of this by learning new skillsets through independent research. I taught myself the R coding language and contributed to many projects, as well as developing a batch-processing script for The Nature Conservancy to analyze ecosystem distribution for any area-of-interest across the United States.\r\nMy current pursuits are learning Python in the ArcGIS setting, SQL for database management, and remote sensing processes for analyzing LiDAR and aerial imagery.\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-10-22T14:18:03-06:00"
+    },
+    {
+      "path": "projects.html",
+      "title": "Projects",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-10-22T14:18:46-06:00"
+    },
+    {
+      "path": "resume.html",
+      "title": "Myles Walimaa",
+      "description": "Creative and collaborative problem solver with a passion for ecological conservation through data science, field work, and geospatial analysis. Wide range of experiences from scuba diving to wildland firefighting, and self-taught coding in R to mapping in many platforms.",
+      "author": [],
+      "contents": "\r\nHard copy of most recent resume found here.\r\nEducation\r\nNorthern Michigan University - B.S. Environmental Science\r\nMarquette, MI | August 2016 - May 2019 | Magna Cum Laude\r\nSchoolcraft College - A.A.S. Sound Recording Technology\r\nLivonia, MI | August 2013 - May 2015\r\nResearch\r\nThe gut microbiome of wild American marten in the Upper Peninsula of Michigan\r\nDiana Lafferty, et al.\r\nWildlife Ecology and Conservation Science Lab\r\nAccepted for publication October 2022\r\nCo-author who performed GIS processing using R-Studio and QGIS, prepared and conducted fieldwork activities, and contributed to writing the final manuscript\r\nCombined raster and vector (shapefile) datasets to generate random sampling locations, extract spatial and environmental data for analysis, and produce cartographic maps\r\nRepresentation revisited: a detailed assessment of ecosystem representation in the protected areas of the United States\r\nBrandon Caltrider, Randy Swaty, and Myles Walimaa\r\nConservation Data Lab\r\nPresented at International Association of Landscape Ecology, April 2021\r\nCo-author who cooperatively read literature, identified project, outlined research plan, gathered and analyzed data, prepared summary charts and interactive maps, and presented findings using R Studio\r\nCombined and analyzed raster and vector (shapefile) data to extract ecological summaries inside and outside the protected lands of the United States using a variety of datasets\r\nAnalyzing trends in solar radiation over the Laurentian Great Lakes\r\nMyles Walimaa\r\nNorthern Michigan University, April 2019\r\nAwarded first-place poster ribbon at Northern Michigan University’s Celebration of Student Scholarship\r\nIndependently read literature, identified project, outlined research plan, gathered and analyzed data, prepared research report, and created poster for presentation\r\nData analysis included using R-Studio coding to transform, combine, and process large .csv files (75,000+ rows) into summary tables with basic statistical tests to assess hypothesis\r\nSoftware\r\nR Studio - scripting, functions, data wrangling, data analysis, statistics, charts and plots, GIS, spatial analysis, cartography, interactive webmaps, R Markdown\r\nArcGIS Pro / ArcMap 10 - vector and raster processing, feature class creation, manage attribute tables, spatial analysis, georeference images, cartography, Python 3\r\nQGIS - vector and raster processing, shapefile creation, manage attribute tables, spatial analysis, georeference images, cartography\r\nQCAD - 2D structure blueprints and layouts\r\nSQL - Database creation, querying, editing\r\nCertifications\r\nNational Park Service\r\nMotorboat Operator\r\nSawyer\r\nDiver\r\nOperational Leadership\r\n\r\nNational Wildfire Coordinating Group Firefighter Type 2\r\nPADI Open Water Diver, Dry Suit Diver\r\nFirst Aid\r\nCPR\r\nOxygen Administration\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-10-22T14:18:33-06:00"
+    }
+  ],
+  "collections": ["posts/posts.json"]
+}
