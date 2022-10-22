@@ -10,13 +10,11 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 
-A lot of my free time is spent outside, either in the mountains or by the water. Growing up in the Great Lakes state, freshwater seas were a significant part of my upbringing. Most of my life was spent learning and exploring just outside of Detroit, MI. Though, my parents took my sister and I camping "up north" every summer where we were able to play in the forests and on the beaches. After obtaining my Associate's degree in audio production, my dream of working in a recording studio shifted to a passion of exploring the natural world. Therefore, I moved to Marquette, MI, to the fresh coast of Lake Superior to begin my studies.  
+Growing up in the Great Lakes state, freshwater seas were a significant part of my upbringing. Most of my life was spent learning and exploring just outside of Detroit, MI. Though, my parents took my sister and I camping "up north" every summer where we were able to play in the forests and on the beaches. After obtaining my Associate's degree in audio production, my dream of working in a recording studio shifted to a passion of exploring the natural world. Therefore, I moved to Marquette, MI, to the fresh coast of Lake Superior to begin my studies.  
 
 In Marquette, I picked up many outdoor hobbies, such as rock climbing, surfing, snowboarding, bikepacking, scuba diving, and sailing. Today, I spend my time climbing mountains to capture vistas that few people have the luxury to see. Otherwise, I spend time in the ocean waiting for the perfect wave to ride back to the shore. When I have the opportunity to pack up my bicycle with camping gear, I hit the road on a trial of endurance and discipline. Lastly, whenever I visit Lake Superior, my sister and I take our sailboat out to spend a few days finding balance between the air and the water.  
 
-I still play and record music. My preferred medium these days is using the MPC2000 and a turntable to sample old records. Spending hours upon hours flipping through the dollar record bins is cathartic and the creative process of listening for the perfect sound to sample is peaceful. The workflow of using an old machine (not a computer) is time consuming and fun, I am more connected to and am able to *feel* the music.  
 
-Sometimes I spend all day reading books. Other times I set up a slackline and practice my balance. Occassionally, I'll pack up my van and start driving, not knowing my destination but trusting the journey will take me where I need to go!
   
 ```{r}
 #slickR::slickR(

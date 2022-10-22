@@ -16,7 +16,7 @@ knitr::opts_chunk$set(echo = FALSE)
 <br>  
 <br>  
 ```{r, out.width = "600px", fig.align='center'}
-knitr::include_graphics("photos/myles_hang.jpeg")
+knitr::include_graphics("photos/myles_sailboat.jpg")
 
 
 ```

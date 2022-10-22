@@ -1,6 +1,22 @@
 {
   "articles": [
     {
+      "path": "about.html",
+      "title": "A little bit about me..",
+      "description": "Who is this madman?",
+      "author": [],
+      "contents": "\r\nGrowing up in the Great Lakes state, freshwater seas were a significant part of my upbringing. Most of my life was spent learning and exploring just outside of Detroit, MI. Though, my parents took my sister and I camping “up north” every summer where we were able to play in the forests and on the beaches. After obtaining my Associate’s degree in audio production, my dream of working in a recording studio shifted to a passion of exploring the natural world. Therefore, I moved to Marquette, MI, to the fresh coast of Lake Superior to begin my studies.\r\nIn Marquette, I picked up many outdoor hobbies, such as rock climbing, surfing, snowboarding, bikepacking, scuba diving, and sailing. Today, I spend my time climbing mountains to capture vistas that few people have the luxury to see. Otherwise, I spend time in the ocean waiting for the perfect wave to ride back to the shore. When I have the opportunity to pack up my bicycle with camping gear, I hit the road on a trial of endurance and discipline. Lastly, whenever I visit Lake Superior, my sister and I take our sailboat out to spend a few days finding balance between the air and the water.\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-10-22T13:40:12-06:00"
+    },
+    {
+      "path": "contact.html",
+      "title": "Contact",
+      "description": "Interested in collaboration? Have some GIS projects? Do you need an R script?",
+      "author": [],
+      "contents": "\r\n\r\nFeel free to reach out, I will respond as soon as I can\r\n\r\n\r\nPhone calls and voicemails are welcome!\r\n\r\n\r\nemail: mwalimaa@gmail.com\r\n\r\n\r\nmobile phone: (248) 298-9574\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-10-22T13:35:53-06:00"
+    },
+    {
       "path": "index.html",
       "title": "Myles Walimaa",
       "author": [],
