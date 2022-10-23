@@ -10,11 +10,11 @@ author:
   - name: Myles Walimaa
     url: 
     affiliation: Conservation Data Lab
-    affiliation_url: https://conservationdatalab.org
+    affiliation_url: 
   - name: Randy Swaty
     url: 
     affiliation: The Nature Conservancy LANDFIRE Team
-    affiliation_url: https://landfire.gov
+    affiliation_url: 
 date: 11-27-2019
 preview: bps_layout.jpg
 output:

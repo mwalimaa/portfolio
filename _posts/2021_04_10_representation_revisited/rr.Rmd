@@ -6,17 +6,17 @@ author:
   - name: Brandon Caltrider
     url: 
     affiliation: Conservation Data Lab
-    affiliation_url: https://conservationdatalab.org
+    affiliation_url: 
   - name: Myles Walimaa
     url:
     affiliation: Conservation Data Lab
-    affiliation_url: https://conservationdatalab.org
+    affiliation_url: 
   - name: Randy Swaty
     url: 
     affiliation: The Nature Conservancy LANDFIRE Team
-    affiliation_url: https://landfire.gov 
+    affiliation_url:  
 date: 04-12-2021
-preview: conus_gap.jpeg
+preview: conus_gap.png
 output:
   distill::distill_article:
     self_contained: false
@@ -104,7 +104,7 @@ Ecologists and conservationists everywhere applauded this initiative as our care
 * Only 4.2% of land is protected for biodiversity and allow for *all* natural ecological processes to occur.  
 
 ```{r, out.width = "600px", fig.align='center', fig.cap = "All protected lands in United States under each GAP status. Black dashed line is total percent protected under GAP 1, 2, 3 and red dashed line is our 30% goal."}
-knitr::include_graphics("conus_gap.jpeg")
+knitr::include_graphics("conus_gap.png")
 
 
 ```
@@ -114,8 +114,8 @@ knitr::include_graphics("conus_gap.jpeg")
 * Is it solely to prevent conversion to subdivisions or agriculture? Are we allowed to systematically extract resources from it, effectively disturbing natural regimes? If so, we have less than 5% to go.  
 * Do we prioritize biodiversity and prevent significant human impact from disrupting natural processes? If this is the avenue we take, we have about 20% more to go.  
   
-```{r, out.width = "600px", fig.align='center', fig.cap = "All protected lands in United States under each GAP status. Black dashed line is total protected under GAP 1, 2, 3 and red dashed line is our 30% goal."}
-knitr::include_graphics("conus_gap.jpeg")
+```{r, out.width = "600px", fig.align='center', fig.cap = "This chart shows the percentage of ecosystem types (EVTs) that are in protected areas at 30% or greater representation under different conservation regimes (GAP status)."}
+knitr::include_graphics("evtrep.png")
 
 
 ```
@@ -127,6 +127,5 @@ Because Biden's plan is to conserve 30% of U.S. land, we decided that 30% of eac
 * 45.8% of EVTs are protected from land conversion at 30% or greater representation.  
 * 22.6% of EVTs are protected for biodiversity at 30% or greater representation.  
 
- 
   
 *This is an **[interactive map](c3.html)**. It shows GAP status and ecosystem types for each Ecoregion. The layers can be toggled on/off on the upper left side, below the zoom controls. Note: the EVT raster was converted to lower resolution for mapping purposes. Explore away!*  
