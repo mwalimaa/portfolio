@@ -17,10 +17,10 @@ In Marquette, I picked up many outdoor hobbies, such as rock climbing, surfing, 
 
   
 ```{r}
-#slickR::slickR(
-#    list.files("photos/carousel",full.names = TRUE),
-#    height = 400,
-#    width = '95%') +
-#  slickR::settings(dots = T, autoplay = T)
+slickR::slickR(
+    list.files("photos/carousel",full.names = TRUE),
+    height = 400,
+    width = '95%') +
+  slickR::settings(dots = T, autoplay = T)
 
 ```

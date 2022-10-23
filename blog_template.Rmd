@@ -16,6 +16,7 @@ author:
     affiliation: The Nature Conservancy LANDFIRE Team
     affiliation_url: https://landfire.gov
 date: 06-24-1995
+preview: image.jpg
 output:
   distill::distill_article:
     self_contained: false
